@@ -3,7 +3,7 @@ const db = require("../models");
 
 // This file empties the Books collection and inserts the books below
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/react-book-app");
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/book-search");
 
 const bookSeed = [
   {
