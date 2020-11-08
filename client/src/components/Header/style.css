@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url(shelves.png);
+    background-position: left;
+    
+}
+
+h1 {
+    text-shadow: 1px 2px white;
+    color: rgb(19, 18, 18);
+}
